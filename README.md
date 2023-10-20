@@ -22,13 +22,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=tonyvuu&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://www.linkedin.com/in/tony-vuu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonyvuu" height="30" width="40" /></a>
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyvuu&show_icons=true&locale=en" alt="tonyvuu" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tonyvuu&icon=0&color=0)](https://visitcount.itsvg.in)
