@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead]([https://media.tenor.com/GVk4jB2u_i8AAAAC/coding.gif)](https://web-dev-portfolio-nu.vercel.app/](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif))
+[![MasterHead](https://github.com/tonyvuu/tonyvuu/assets/140409275/24f58033-c655-4312-9d46-57ad2670157c)]
 
 <!--
 **tonyvuu/tonyvuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
