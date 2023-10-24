@@ -21,6 +21,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonyvuu&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyvuu&show_icons=true&locale=en&layout=compact" alt="tonyvuu" /></p>
+
+
 
 <h3>Connect with me:</h3>
 <p>
