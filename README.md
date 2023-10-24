@@ -30,6 +30,8 @@
 <a href="https://www.linkedin.com/in/tony-vuu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonyvuu" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonyvuu&" alt="tonyvuu" /></p>
+
 
 
 ---
